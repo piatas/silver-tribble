@@ -1,5 +1,5 @@
 # silver-tribble
 learning repository
 
-#credits
+# credits
 Damian Piątkowski
