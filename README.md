@@ -2,4 +2,4 @@
 learning repository
 
 # credits
-Damian Piątkowski
+this repository was created during a course on PUT
